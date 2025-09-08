@@ -25,6 +25,5 @@ function fromYenToPound(amtOfYen) {
 module.exports = { 
     fromEuroToDollar,
     fromDollarToYen,
-    fromYenToPound,
-    oneEuroIs
+    fromYenToPound
  };
